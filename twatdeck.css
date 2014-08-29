@@ -12,6 +12,14 @@
   	color: #DDDDDD;
 }
 
+.compose-header {
+	border-color: #FF4136;
+}
+  
+.stream-item {
+	border-color: #222;
+}
+
 .js-column-header, .js-action-header, .column-header {
     opacity: 0.4;
 }
@@ -28,11 +36,15 @@
 	border-radius: 0px;
 }
 
-.js-follow-button, .btn, .btn-alt, .btn-alt:focus, .btn-aquare, .js-user-actions-menu .is-inverted-dark, .compose {
+.js-follow-button, .btn, .btn-alt, .js-hide-drawer, .margin-bm, .btn-alt:focus, .btn-aquare, .attach-compose-buttons, .tweet-button, .btn-positive, .js-user-actions-menu .is-inverted-dark, .compose {
 	background-color: #111;
     color: #DDDDDD;
 }
-            
+
+.attach-compose-buttons .tweet-button {
+	background-color: #111;
+}
+           
 .js-follow-button:hover, .btn:hover, .btn-alt:hover, .btn-alt:hover, .btn-aquare:hover, .js-user-actions-menu:hover .is-inverted-dark:hover {
 	background-color: #222;
     color: #DDDDDD;
