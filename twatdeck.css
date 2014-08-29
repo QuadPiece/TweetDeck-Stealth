@@ -1,0 +1,58 @@
+@-moz-document domain("tweetdeck.twitter.com") {
+.js-app-columns, .app-columns .horizontal-flow-container, .without-tweet-drag-handles {
+	padding: 0px;
+}
+
+.js-column, .column{
+	margin: 0 auto;
+    background-color: #111111;
+}
+  
+.nbfc {
+  	color: #DDDDDD;
+}
+
+.js-column-header, .js-action-header, .column-header {
+    opacity: 0.4;
+}
+
+.js-colums-header:hover, .js-action-header:hover, .column-header:hover {
+	opacity: 1;
+}
+
+.avatar, .compose-account-img, .size48, .js-account-item {
+	border-radius: 100px;
+}
+
+.s-profile, .prf {
+	border-radius: 0px;
+}
+
+.js-follow-button, .btn, .btn-alt, .btn-alt:focus, .btn-aquare, .js-user-actions-menu .is-inverted-dark, .compose {
+	background-color: #111;
+    color: #DDDDDD;
+}
+            
+.js-follow-button:hover, .btn:hover, .btn-alt:hover, .btn-alt:hover, .btn-aquare:hover, .js-user-actions-menu:hover .is-inverted-dark:hover {
+	background-color: #222;
+    color: #DDDDDD;
+}
+            
+.js-send-tweet-button, .js-hide-drawer, .tweet-button,  {
+    color: #111;
+	background-color: #FF4136;
+}
+              
+.js-send-tweet-button:hover .js-hide-drawer:hover,{
+    color: #111;
+	background-color: #FF564D;
+}
+                
+.btn-positive-on-blue[disabled], .btn-positive-on-blue[disabled]:hover, .btn-positive-on-blue[disabled]:active, .btn-positive-on-blue.is-disabled, .btn-positive-on-blue.is-disabled:hover, .btn-positive-on-blue.is-disabled:focus, .btn-positive-on-blue.is-disabled:active {
+	background-color: #eee;
+}
+                    
+.btn-on-blue, .btn-on-blue:focus {
+	border: 0px;
+}
+}
