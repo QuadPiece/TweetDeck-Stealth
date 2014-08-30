@@ -63,6 +63,14 @@
 .btn-positive-on-blue[disabled], .btn-positive-on-blue[disabled]:hover, .btn-positive-on-blue[disabled]:active, .btn-positive-on-blue.is-disabled, .btn-positive-on-blue.is-disabled:hover, .btn-positive-on-blue.is-disabled:focus, .btn-positive-on-blue.is-disabled:active {
 	background-color: #eee;
 }
+
+.js-detail-container {
+	background-color: #111;
+}
+
+.is-unread, .js-unread-count {
+	background-color: #BF2A22;
+}
                     
 .btn-on-blue, .btn-on-blue:focus {
 	border: 0px;
