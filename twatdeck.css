@@ -96,4 +96,10 @@ a.account-link, .block {
 .app-columns-container {
 	background-color: #222;
 }
+
+.prf-img {
+	background-color: #111;
+    border: 3px #fff solid;
+    border-radius: 100px;
+}
 }
