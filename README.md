@@ -5,7 +5,7 @@ Use this with Stylish (Or any other CSS capable add-on)
 
 Warning, pretty rushed CSS, but it works well as far as I've actually been using it.
 
-[Preview Screenhot](http://a.pomf.se/zpfexj.png)
+[Preview Screenhot](http://a.pomf.se/zrenoq.png)
 
 ### How to add styles to Stylish (Firefox)
 
