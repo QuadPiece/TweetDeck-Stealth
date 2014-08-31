@@ -75,4 +75,20 @@
 .btn-on-blue, .btn-on-blue:focus {
 	border: 0px;
 }
+
+.link-complex, .link-complex:hover, .url-ext, .url-ext:hover, .column-type-icon {
+	color: #BF2A22;
+}
+    
+a.account-link, .block {
+	color: #DDD;
+}
+    
+.btn-neutral {
+	background: none;
+}
+
+.btn-on-blue.is-disabled, .btn-on-blue.is-disabled:hover {
+	background-color: #222;
+    color: #999;
 }
