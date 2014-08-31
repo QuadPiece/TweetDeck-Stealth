@@ -16,4 +16,4 @@ Warning, pretty rushed CSS, but it works well as far as I've actually been using
 
 * Write whatever you wish in the name field.
 * Paste the content of the CSS file in the large textbox.
-* Click on **Save** and check out you new Crunchyroll!
+* Click on **Save** and check out yo new look bro!
