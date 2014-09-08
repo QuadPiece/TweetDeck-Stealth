@@ -3,7 +3,7 @@ Tweetdeck Stealth
 
 Use this with Stylish (Or any other CSS capable add-on)
 
-Warning, pretty rushed CSS, but it works well as far as I've actually been using it.
+This CSS contains lots of red and black so you gotta be hipster to use it.
 
 [Preview Screenhot](http://a.pomf.se/zrenoq.png)
 
