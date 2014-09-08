@@ -50,12 +50,12 @@
     color: #DDDDDD;
 }
             
-.js-send-tweet-button, .js-hide-drawer, .tweet-button,  {
-    color: #111;
-	background-color: #FF4136;
+.js-send-tweet-button, .js-hide-drawer, .tweet-button {
+    color: #DDD;
+	background-color: #111;
 }
               
-.js-send-tweet-button:hover .js-hide-drawer:hover,{
+.js-send-tweet-button:hover .js-hide-drawer:hover {
     color: #111;
 	background-color: #FF564D;
 }
